@@ -1,0 +1,9 @@
+Objetos para posible uso en el proyecto:
+1. Etiqueta lang
+se encarga de indicar el idioma en el que está escrita una página.
+
+2. Frameworks .net 
+Es un marco de trabajo de codigo abierto, libre y crea muchos tipos de aplicaciones web.
+
+3.Frameworks Angular
+Es un marco de trabajo para desarrollar aplicaciones y es de codigo abierto mantenido por google y crea las aplicaciones web de una sola página. 
