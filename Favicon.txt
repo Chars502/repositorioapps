@@ -1,0 +1,21 @@
+Implementación de un favicon para el desarrollo de nuestro sitio web.
+
+¿Para que sirve?
+Estos marcadores visuales ayudan a la identificación rápida de una página y unifica todos los componentes del sitio para una mejor experiencia de usuario.
+
+Razones por las cuales haremos uso de este: 
+El favicon nos brindará diferentes funciones como por ejemplo:
+Nos dará identidad a nuestro sitio.
+Identificar rápidamente la página cuando se tiene varias pestañas abiertas.
+Ademas de que le da un atractivo visual al sitio web.
+
+Código para colocar el favicon al sitio.
+
+<link rel="shortcut icon" href="favicon/favicon.ico" type="image/x-icon">
+
+Hay que tomar en cuenta que el icono o favicon debe de estar en el directorio principal del dominio,
+Posteriormente la línea de código va dentro del "HEAD"
+
+
+Función para localizar el favicon:
+href="favicon/favicon.ico": Dentro de las comillas colocaremos la dirrección de donde tendremos el icono o favicon. 
